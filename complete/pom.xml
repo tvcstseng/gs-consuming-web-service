@@ -51,7 +51,7 @@
                     <generatePackage>hello.wsdl</generatePackage>
                     <schemas>
                         <schema>
-                            <url>http://localhost:8080/ws/countries.wsdl</url>
+                            <url>https://graphical.weather.gov/xml/SOAP_server/ndfdXMLserver.php?wsdl</url>
                         </schema>
                     </schemas>
                 </configuration>
